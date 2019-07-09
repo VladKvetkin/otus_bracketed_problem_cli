@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b58e302f112bfcd51cf0e34d252c4b09",
+    "packages": [
+        {
+            "name": "kvetkin/bracketed_problem",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/VladKvetkin/otus_bracketed_problem.git",
+                "reference": "66322e503bfaf958622086ac398677ba97bcc720"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/VladKvetkin/otus_bracketed_problem/zipball/66322e503bfaf958622086ac398677ba97bcc720",
+                "reference": "66322e503bfaf958622086ac398677ba97bcc720",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1.0"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "src"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Vladislav Kvetkin",
+                    "email": "vlad.kvetkin@yandex.ru"
+                }
+            ],
+            "description": "Bracketed problem Composer package",
+            "time": "2019-07-08T18:35:32+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "kvetkin/bracketed_problem": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

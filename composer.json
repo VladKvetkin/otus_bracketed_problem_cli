@@ -1,0 +1,12 @@
+{
+    "name": "kvetkin/lesson021",
+    "authors": [
+        {
+            "name": "Vladislav Kvetkin",
+            "email": "vlad.kvetkin@yandex.ru"
+        }
+    ],
+    "require": {
+        "kvetkin/bracketed_problem": "dev-master"
+    }
+}
